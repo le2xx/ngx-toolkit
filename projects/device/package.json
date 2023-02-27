@@ -2,7 +2,7 @@
   "name": "@le2xx/ngx-toolkit-device",
   "version": "15.0.0",
   "description": "Angular device user-agent detection with Universal support",
-  "homepage": "https://github.com/dewizz/ngx-toolkit",
+  "homepage": "https://github.com/le2xx/ngx-toolkit",
   "license": "MIT",
   "author": "Dewizz",
   "keywords": [
@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dewizz/ngx-toolkit"
+    "url": "https://github.com/le2xx/ngx-toolkit"
   },
   "bugs": {
-    "url": "https://github.com/dewizz/ngx-toolkit/issues"
+    "url": "https://github.com/le2xx/ngx-toolkit/issues"
   },
   "dependencies": {
     "tslib": "^2.0.0"
