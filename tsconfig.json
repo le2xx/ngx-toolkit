@@ -1,0 +1,53 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "./dist/out-tsc",
+    "sourceMap": true,
+    "declaration": false,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "target": "ES2022",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "lib": [
+      "es2018",
+      "dom"
+    ],
+    "paths": {
+      "cache": [
+        "dist/cache/cache",
+        "dist/cache"
+      ],
+      "cookie": [
+        "dist/cookie/cookie",
+        "dist/cookie"
+      ],
+      "device": [
+        "dist/device/device",
+        "dist/device"
+      ],
+      "logger": [
+        "dist/logger/logger",
+        "dist/logger"
+      ],
+      "spring": [
+        "dist/spring/spring",
+        "dist/spring"
+      ],
+      "utils": [
+        "dist/utils/utils",
+        "dist/utils"
+      ]
+    },
+    "useDefineForClassFields": false
+  },
+  "angularCompilerOptions": {
+    "fullTemplateTypeCheck": true,
+    "strictInjectionParameters": true
+  }
+}

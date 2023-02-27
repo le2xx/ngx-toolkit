@@ -1,0 +1,29 @@
+{
+  "name": "@ngx-toolkit/spring",
+  "version": "0.0.0-PLACEHOLDER",
+  "description": "Angular spring utilities",
+  "homepage": "https://github.com/dewizz/ngx-toolkit",
+  "license": "MIT",
+  "author": "Dewizz",
+  "keywords": [
+    "angular",
+    "ngx",
+    "ngx-toolkit",
+    "spring",
+    "spring-data"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dewizz/ngx-toolkit"
+  },
+  "bugs": {
+    "url": "https://github.com/dewizz/ngx-toolkit/issues"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "^13.2.0",
+    "@angular/core": "^13.2.0"
+  }
+}
